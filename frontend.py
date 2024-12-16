@@ -1,5 +1,5 @@
 # 必要なPythonライブラリをインポート
-import uuid, boto3
+import uuid
 import streamlit as st
 from os.path import basename
 from urllib.parse import unquote
