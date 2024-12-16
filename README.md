@@ -4,7 +4,7 @@
 
 事前にあなたのOCIアカウントでRAGエージェントを作成ください。
 
-[30分でOCI Generative AI Agents 爆速RAGってみた 【Object storage編】 - Qiita](https://qiita.com/msasakaw/items/219c58ecdf98b4bfb743)
+- 参考記事： [30分でOCI Generative AI Agents 爆速RAGってみた 【Object storage編】 - Qiita](https://qiita.com/msasakaw/items/219c58ecdf98b4bfb743)
 
 本リポジトリをローカルにクローンし、必要なPythonライブラリをインストールします。
 
