@@ -6,13 +6,13 @@
 
 [30分でOCI Generative AI Agents 爆速RAGってみた 【Object storage編】 - Qiita](https://qiita.com/msasakaw/items/219c58ecdf98b4bfb743)
 
-その後、本リポジトリ内の `frontend.py` に同エージェントのエンドポイントのOCIDを記載してください。
-
 本リポジトリをローカルにクローンし、必要なPythonライブラリをインストールします。
 
 ```zsh
 pip install -U streamlit oci
 ```
+
+その後、本リポジトリ内の `frontend.py` に同エージェントのエンドポイントのOCIDを記載してください。
 
 ## 実行方法
 
